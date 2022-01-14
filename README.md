@@ -31,6 +31,7 @@ Fujitsu ふじつ Lifebook A574K Hackintosh
 - QE/CI Graphics Of Intel HD 4600 (Internal Monitor need EDID Patch - Read note)
 - CPU Power Management
 - Restart, Sleep and Shutdown
+- USB Port
 - Internal Speaker, Headphone audio and Internal Mic
 - Brightness
 - Keyboard
