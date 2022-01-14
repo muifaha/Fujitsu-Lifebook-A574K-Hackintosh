@@ -42,5 +42,5 @@ Fujitsu ふじつ Lifebook A574K Hackintosh
 - Battery Indicator
 
 ### Notes
-- All Fujitsu Hasweell laptop i think need EDID Patch, I don't know if my EDID patch will work on your device or not, please send an issue if there a problem
+- Fujitsu Haswell laptop need EDID Patch, I don't know if my EDID patch will work on your device or not, please send an issue if there a problem
 - Dont forget change serial number!
