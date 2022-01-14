@@ -7,7 +7,7 @@ Fujitsu ふじつ Lifebook A574K Hackintosh
 
 | MacOS | Opencore                                                  |
 | ------------------- | ------------------------------------------- |
-| BigSur - Monteray | 0.7.6 |
+| BigSur - Monterrey | 0.7.6 |
 
 
 ### Configuration
