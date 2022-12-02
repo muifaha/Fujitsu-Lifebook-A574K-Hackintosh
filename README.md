@@ -7,7 +7,7 @@ Fujitsu ふじつ Lifebook A574K Hackintosh
 
 | MacOS | Opencore                                                  |
 | ------------------- | ------------------------------------------- |
-| BigSur - Monterrey | 0.7.6 |
+| BigSur - Monterrey - Ventura (OCLP) | 0.8.7 |
 
 
 ### Configuration
@@ -21,7 +21,7 @@ Fujitsu ふじつ Lifebook A574K Hackintosh
 | Integrated Graphics | Intel HD Graphics 4600 |
 | Monitor | 1366x768 (15.6 inch) |
 | Sound Card | Realtek ALC282 |
-| Wireless Card | Removed Bcs Not Supported |
+| Wireless Card | INTEL AC 7260 |
 | Trackpad | PS2 ALPS |
 | USB Bluetooth | USB CSR BT V5 |
 | USB Wireless | TP-Link WNXXXX |
