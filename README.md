@@ -15,8 +15,8 @@ Fujitsu ふじつ Lifebook A574K Hackintosh
 | Specifications | Detail                                                  |
 | ------------------- | ------------------------------------------- |
 | Notebook model | Fujitsu Lifebook A574/K |
-| Processor | Intel Core i3-4100M |
-| Memory | 8GB Samsung DDR3L 1600MHz |
+| Processor | Intel Core i7-4700MQ |
+| Memory | 16GB Samsung DDR3L 1600MHz |
 | SSD | Klevv Neo N400 120GB |
 | Integrated Graphics | Intel HD Graphics 4600 |
 | Monitor | 1366x768 (15.6 inch) |
