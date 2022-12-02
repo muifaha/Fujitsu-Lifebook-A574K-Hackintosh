@@ -14,30 +14,6 @@
                     <key>Path</key>
                     <string>DSDT.aml</string>
                 </dict>
-                <dict>
-                    <key>Comment</key>
-                    <string></string>
-                    <key>Enabled</key>
-                    <false/>
-                    <key>Path</key>
-                    <string>SSDT-EC-LAPTOP.aml</string>
-                </dict>
-                <dict>
-                    <key>Comment</key>
-                    <string></string>
-                    <key>Enabled</key>
-                    <false/>
-                    <key>Path</key>
-                    <string>SSDT-PNLF.aml</string>
-                </dict>
-                <dict>
-                    <key>Comment</key>
-                    <string></string>
-                    <key>Enabled</key>
-                    <false/>
-                    <key>Path</key>
-                    <string>SSDT-PLUG-DRTNIA.aml</string>
-                </dict>
             </array>
             <key>Delete</key>
             <array/>
@@ -112,21 +88,7 @@
         <key>DeviceProperties</key>
         <dict>
             <key>Add</key>
-            <dict>
-                <key>#PciRoot(0x0)/Pci(0x2,0x0)</key>
-                <dict>
-                    <key>AAPL,ig-platform-id</key>
-                    <data>BgAmCg==</data>
-                    <key>AAPL00,override-no-connect</key>
-                    <data>AP///////wAGEHycAAAAAAoWAQSQIhP/5gAAoFdJmyYQSE8AAAABAQEBAQEBAQEBAQEBAQEBFxtWcFAADjAgICQAWcIQAAAYAAAA/AAKICAgICAgICAgICAgAAAA/QA8PElJBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEc=</data>
-                    <key>device-id</key>
-                    <data>EgQAAA==</data>
-                    <key>framebuffer-cursormem</key>
-                    <data>AACQAA==</data>
-                    <key>framebuffer-patch-enable</key>
-                    <data>AQAAAA==</data>
-                </dict>
-            </dict>
+            <dict/>
             <key>Delete</key>
             <dict/>
         </dict>
@@ -181,24 +143,6 @@
                     <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/CtlnaAHCIPort</string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
-                    <string>NoTouchID.kext</string>
-                    <key>Comment</key>
-                    <string>V1.0.4 | NoTouchID.kext</string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/NoTouchID</string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
@@ -451,42 +395,6 @@
                     <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/HoRNDIS</string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
-                    <string>RtWlanU.kext</string>
-                    <key>Comment</key>
-                    <string>V1830.32.b27</string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/RtWlanU</string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
-                    <string>RtWlanU1827.kext</string>
-                    <key>Comment</key>
-                    <string>V1827.4.b36</string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/RtWlanU1827</string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
@@ -911,7 +819,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02523303J9GDVV1H</string>
+                <string>C02612902CDGDVVJA</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -925,9 +833,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro12,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02PT7YHH1DP</string>
+                <string>C02RGFYUH1DP</string>
                 <key>SystemUUID</key>
-                <string>2E2D02F0-F752-4687-8461-9D74C70A6244</string>
+                <string>C18D8798-5E59-4C1D-A5D7-06E247064A19</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
